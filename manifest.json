@@ -1,0 +1,21 @@
+{
+  "name": "Audibio Transcriptor",
+  "short_name": "Audibio",
+  "description": "Una aplicación para transcribir audio a texto usando Inteligencia Artificial.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#551BB3",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/551BB3/FFFFFF?text=A",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/551BB3/FFFFFF?text=A",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
